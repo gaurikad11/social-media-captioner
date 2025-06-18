@@ -9,6 +9,12 @@ Welcome to the **Social Media Captioner App**! 🚀 This web app generates **eng
 - Select the **tone** for your caption, including Cheerful, Professional, Emotional, Funny, etc.
 - **Edit** the generated captions directly in the app.
 
+## 👨‍💻 Contributors
+
+- [devyanic11](https://github.com/devyanic11) - Devyani Chavan
+- [@gaurikad11](https://github.com/gaurikad11) - Gauri Kad
+
+
 ## Screenshot
 ![App Screenshot](https://github.com/user-attachments/assets/7e165f92-59ec-4bd0-b125-1d8d64a05950)
 
